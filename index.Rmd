@@ -1,0 +1,27 @@
+---
+title: "Introducción al Análisis Multivariante"
+author: 
+- Alex Sánchez-Pla$^{1,2}$, Francesc Carmona$^1$ y Carles M. Cuadras$^1$
+- $^1$ Departament de Genètica, Microbiologia i Estadística. Universitat de Barcelona (UB).
+- $^2$ Unitat d'Estadística i Bioinformàtica. Vall d'Hebron Institut de Recerca (VHIR).
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::html_document2: default
+bibliography: MDAreview.bib
+---
+
+# Presentación
+
+Este documento es una versión actualizada -en varios sentidos- de unos materiales de análisis multivariante escritos por el profesor Carles M. Cuadras para la asignatura "Ampliación de Bioestadística" que se impartía el curso 1979-80 conjuntamente para alumnos de Matemáticas y Biología.
+
+Estos materiales fueron mi primera inmersión en el campo del análisis multivariante y aunque ha llovido bastante y he pasado por algunos cursos más, siempre me han parecido una introducción refrescante. Con esta reedición me gustaría también agradecer al Dr. Cuadras su labor de más de 40 años para hacer llegar la estadística en general y el análisis multivariante en particular a un publico lo más amplio posible.
+
+El plan de desarrollo para esta nueva edición, que podra seguirse en el repositorio de Github (), tendrá dos fases:
+
+1. En una primera, actualizaremos la versión original a RMarkdown.
+2. A continuación añadiremos código R que permita ejecutar los ejemplos de cada tema. Cuando sea preciso se actualizaran también los ejemplos (por ejemplo si no se dispone de los datos originales p si estos han quedad desfasados)
+3. En versiones posteriores añadiremos contenidos para consolidar los capítulos e introducir nuevas aproximaciones y .
+
+Previsiblemente este documento, con sus errores e imperfecciones se quedará como "open source" para uso de quien lo desee sin tener que pasar por el doloroso y anquilosante proceso de convertirlo en un libro, que, en este caso, empezaría a quedar obsoleto al minuto de estar acabado.

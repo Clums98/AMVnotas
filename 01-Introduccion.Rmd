@@ -1,0 +1,3 @@
+# Introduccion
+
+En aquest treball es comenten les tècniques per a representar dades, d’aplicació més corrent en Biologia. Aquestes tècniques multivariades  formen un important capítol de l’anomenada “Geometria de l’Estadística “, que té per finalitat analitzar i interpretar el material estadístic mitjançant representacions gràfiques. 

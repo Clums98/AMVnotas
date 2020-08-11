@@ -1,0 +1,5 @@
+# Distancias Estadísticas
+
+Donada la matriu de dades $\mathbb{X}$, cada individu $i$ el podem representar com un punt $P_i$ de l’espai euclidià Rn , de coordenades
+	 2/1
+	Les distàncies entre aquests punts P1,....,Pk informen sobre les esmenades analogies i diferències entre els individus. Cal doncs introduir una distància entre els individus. Hi ha moltes maneres de fer-ho. La més corrent és definir la distancia 2  euclídia. 

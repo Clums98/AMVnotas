@@ -1,0 +1,31 @@
+# Analisis de Componentes Principales
+
+Adoptem ara la distància euclídia d .
+
+Si T és una matriu ortogonal  d’ordre     n x n, la transformació 									3/1.
+dóna una nova matriu de dades Y, que defineix una configuració de punts 
+	3/2.
+
+	Els  K individus estan aleshores també representats pels punts Q1 . La dis-tancia  entre dos individus en relació a les d primeres dimensions és  		
+	3/3. 
+	
+	Doncs bé, l’anàlisi de components principals obté la matriu T  que fa que aquestes d dimensions siguin les més rellevants possibles. Es demostra que si T conté els n vectors propis de la matriu de covariancies C 
+3/4.
+  ordenats de forma creixent pels valors propis de C, aleshores 
+	3/5.
+es a dir, la dispersió, mesurada per la suma de distancies entre punts, es màxima en dimensió d. 
+	La dispersió global és proporcional a ( $\lambda_1 +...+\lambda_n$) = Traza (C). 
+Si ($\lambda_1 +...+\lambda_d$)  absorbeix una part important (el 75% per exemple) la representació  d es adequada.
+	La matriu de dades Y = XT
+	3/6 
+és tal que la variabilitat de les columnes decreix d’esquerra a dreta. Si preneu d = 2 agafarem les dos primeres columnes, o sigui, les coordenades 
+	3/7. 
+i farem la representació respecte a dos eixos ortogonals.  
+(Fig.1. ) 
+	A més a més, les noves variables 
+	3/8.
+anomenades components principals, verifiquen : 
+
+1. estan incorrelacionades  dos a dos, 
+2. tenen variàncies respectivament màximes 
+	3/9.
